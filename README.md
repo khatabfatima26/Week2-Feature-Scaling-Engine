@@ -11,8 +11,7 @@ A Streamlit web application that prepares dataset matrices for ML model inputs t
 - Feature analysis and CSV download
 
 ## Live Demo
-https://week2-feature-scaling-engine-abc123.streamlit.app
-(Replace with your actual deployed URL)
+https://week2-feature-scaling-engine-ppxcqzytsuhedn6jfundn4.streamlit.app/
 
 ## How to Run Locally
 ```bash
